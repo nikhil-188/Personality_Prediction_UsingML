@@ -49,6 +49,7 @@ Five Personality Traits and produced performance measures for each trait. Accura
 calculated for each attribute. 
 
 ![image](https://github.com/nikhil-188/Personality_Prediction_UsingML/assets/84719583/2dfa3d20-9069-494a-afe5-6a48ef230222)
+
 ![image](https://github.com/nikhil-188/Personality_Prediction_UsingML/assets/84719583/13c8d854-0289-423d-b6d7-55be15769d75)
 
 ![image](https://github.com/nikhil-188/Personality_Prediction_UsingML/assets/84719583/0cb54194-7a73-427e-9ac1-ea2f3249ae04)
